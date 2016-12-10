@@ -1,5 +1,10 @@
-header {
-	background-color: 66CCFF;
-	color: brown;
+body {
+	background-color: #404040;	
+
+}
+
+#header {
+	background-color: #006600;
+	color: #006600;
 
 }
